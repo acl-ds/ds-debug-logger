@@ -1,0 +1,17 @@
+{
+  "name": "ds-debug-logger",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:acl-ds/ds-debug-logger.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://github.com/acl-ds/ds-debug-logger#readme",
+  "description": ""
+}

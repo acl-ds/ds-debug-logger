@@ -1,0 +1,10 @@
+{
+  "status_code": {
+    "UNKNOWN": "ER1000",
+    "ACCESS_DENIED" : "ER10001",
+    "DB_CONN_ERROR" : "ER10002",
+    "ES_CONN_ERROR" : "ER10003",
+    "AD_CONN_ERROR" : "ER10004",
+    "SUCCESS" : "200"
+  }
+}
