@@ -1,4 +1,4 @@
-var { status_code } = require('./status_code.json')
+// var { status_code } = require('./status_code.json')
  
 async function log( payload, es_client, index="ds_internal"){
   
